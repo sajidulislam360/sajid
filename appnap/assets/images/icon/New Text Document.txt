@@ -1,0 +1,5 @@
+icon-chevron.svg
+
+icon-star-gray.svg
+
+icon-star.svg
